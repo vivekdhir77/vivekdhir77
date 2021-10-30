@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [vivekdhir.com](vivekdhir.com)
+- 👨‍💻 All of my projects are available at [vivekdhir.com](www.vivekdhir.com)
 
 - 💬 Ask me about **competitive programming**
 
