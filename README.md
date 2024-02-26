@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekdhir77" target="blank"><img src="https://img.shields.io/twitter/follow/vivekdhir77?logo=twitter&style=for-the-badge" alt="vivekdhir77" /></a> </p>
 
-- 🌱 I’m currently learning **how to contribute to open source**
+- 🌱 I’m currently working on **Neural Architecture Search**
 
 - 👨‍💻 All of my projects are available at [vivekdhir.com](www.vivekdhir.com)
 
